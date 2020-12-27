@@ -17,4 +17,5 @@ List of bioinformatics resources everyone can use:
 * [Galaxy](https://usegalaxy.org/) - A tool for in-depth analysis and data manipulation of genetic data, collecting many tools in one data platform.
 * [Meme](http://meme-suite.org/tools/meme) - Motif discovery tool.
 * [Homer](http://homer.ucsd.edu/homer/motif/) - Another motif discovery tool.
+* [Consensus](http://stormo.wustl.edu/consensus/html/Html/main.html) - Yet another motif discovery tool.
 * [Weblogo 3](http://weblogo.threeplusone.com/) - Sequence visualizer
