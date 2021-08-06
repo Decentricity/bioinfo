@@ -4,7 +4,7 @@ List of bioinformatics resources everyone can use:
 ### Genome Data Sources
 
 * [Personal Genome Project](https://my.pgp-hms.org/public_genetic_data) - Crowdsourced list of mostly-anonymous human genomes contributed by site users. Includes Whole Genome Sequences as well as variant VCF files (mostly Ancestry.com and 23andme)
-* [1000 Genomes, by the International Genome Sample Resource](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/) - More than 2500+ genomes from the European Bioinformatics Institute. Includes genomes from all continents.
+* [1000 Genomes, by the International Genome Sample Resource](https://www.internationalgenome.org/) - More than 2500+ genomes from the European Bioinformatics Institute. Includes genomes from all continents.
 
 ### Reference Genomes
 
